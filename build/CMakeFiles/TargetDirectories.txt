@@ -1,0 +1,3 @@
+/home/igor/qt-test/build/CMakeFiles/MyQtCMakeApp.dir
+/home/igor/qt-test/build/CMakeFiles/edit_cache.dir
+/home/igor/qt-test/build/CMakeFiles/rebuild_cache.dir
